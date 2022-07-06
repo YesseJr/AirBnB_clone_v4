@@ -17,6 +17,7 @@
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
+![This Image](https://github.com/YesseJr/my_images/blob/3ee64fd8df7b5b3a1a23b632bc2b8f6fb6bfa144/hbnb_step5.png)
 
 ## File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
